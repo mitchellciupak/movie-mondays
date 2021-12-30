@@ -8,4 +8,6 @@
 
 - [ ] Create First Digital Flyer and Template
 
-- [ ] Create Firt Agenda and Template
+- [ ] Create First Agenda and Template
+
+- [ ] Get Access to Add Events to Nashville Office Calendar to Add Weekly Event There
