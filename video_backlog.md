@@ -14,3 +14,8 @@
 * [PyJamas 2021 - Designing websites with privacy in mind by Donata Stroink-Skillrud](https://youtu.be/OYR5puigIfs?t=3570)
 * [PyJamas 2021 - Security considerations in Python Packaging by Gajendra Deshpande](https://youtu.be/OYR5puigIfs?t=7528)
 * [PyJamas 2021 - The Magic of Self: How Python inserts self into methods by Sebastiaan Zeeff](https://youtu.be/Ck-NccgUIOY?t=214)
+
+
+https://www.youtube.com/watch?v=vQ8ZkaK7igk
+https://www.youtube.com/watch?v=fl4aZ2KXBsQ
+https://www.youtube.com/c/GotoConferences/videos
