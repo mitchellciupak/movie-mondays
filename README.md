@@ -23,11 +23,11 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Movie Mondays are a series of lunchtime meetings where everyone in the office is invited to watch, learn, and discuss the latest talks, presentations, and keynotes from industry leading tech conferences and presentations made from professionals here in our Nashville office.
+Movie Mondays are a series of lunchtime meetings where everyone in the office is invited to watch, learn, and discuss the latest talks, presentations, and keynotes from industry leading tech conferences and presentations made from professionals live from our Nashville office.
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-We would love to have you in attendance for any and all Movie Mondays. Meetings are 12PM CST every Monday. Please visit the following [link]() for a calendar invite. Attendance via MS Teams is also available.
+We would love to have you in attendance for any and all Movie Mondays. Meetings are 12PM CST every Monday. Please visit the following [link](www.needtoaddthistothereadme.com) for a calendar invite. Attendance via MS Teams is also available.
 
 If you would like to schedule a presentation please email mitchell.ciupak@nttdata.com.
 
