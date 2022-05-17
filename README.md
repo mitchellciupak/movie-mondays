@@ -14,6 +14,7 @@
 ---
 
 <p align="center"> Watch and discuss the latest talks, presentations, and keynotes.<br></p>
+<p align="center"> -- Put on hold -- <br></p>
 
 ## 📝 Table of Contents
 - [About](#about)
