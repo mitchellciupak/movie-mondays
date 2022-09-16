@@ -24,7 +24,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Movie Mondays are a series of lunchtime meetings where everyone in the office is invited to watch, learn, and discuss the latest talks, presentations, and keynotes from industry leading tech conferences and presentations made from professionals live from our Nashville office.
+(On Hold) Movie Mondays are a series of lunchtime meetings where everyone in the office is invited to watch, learn, and discuss the latest talks, presentations, and keynotes from industry leading tech conferences and presentations made from professionals live from our Nashville office.
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
